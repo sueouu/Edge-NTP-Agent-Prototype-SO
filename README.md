@@ -44,4 +44,3 @@ The **Personal Assistant** browser extension enhances your browsing experience b
 
 
 
--
