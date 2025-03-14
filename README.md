@@ -7,7 +7,29 @@ The **Personal Assistant** browser extension enhances your browsing experience b
 - **Shopping Assistant**: Detects recent shopping searches and helps you find the best deals.
 - **Career Assistant**: Extracts job search queries from LinkedIn and suggests relevant job opportunities.
 - **News Assistant**: Identifies the latest visited news site and summarizes the latest headlines for you.
+- **AI-Powered Search**: Opens Copilot with relevant prompts based on your browsing activity.
+- **Side Panel Support**: Opens Copilot in a right-docked small window for a seamless user experience.
 
+## Supported Domains
+
+The extension detects activity from the following websites:
+
+### **Shopping Domains:**
+- [Amazon](https://www.amazon.com/)
+- [eBay](https://www.ebay.com/)
+- [Walmart](https://www.walmart.com/)
+- [Target](https://www.target.com/)
+- [Best Buy](https://www.bestbuy.com/)
+
+### **Job Search Domains:**
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/)
+
+### **News Domains:**
+- [CNN](https://www.cnn.com/)
+- [Reuters](https://www.reuters.com/)
+- [BBC](https://www.bbc.com/)
+- [The New York Times](https://www.nytimes.com/)
+- [Bloomberg](https://www.bloomberg.com/)
 
 ## Installation
 1. **Download the extension**:  
@@ -39,8 +61,4 @@ The **Personal Assistant** browser extension enhances your browsing experience b
 - If the extension does not appear in new tabs:
   - Ensure **Developer Mode** is enabled in `edge://extensions/`.
   - Try **reloading the unpacked extension**.
-  - Make sure the browser is up to date.
-
-
-
-
+  - Open a new tab
