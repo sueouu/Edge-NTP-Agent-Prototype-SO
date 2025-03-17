@@ -1,4 +1,4 @@
-# Personal Assistant Edge Extension
+# Edge Extension - Personal Assistant 
 
 ## Overview
 The **Personal Assistant** browser extension enhances your browsing experience by providing AI-powered assistance for **shopping**, **career opportunities**, and **news updates**. It dynamically analyzes your browsing history and offers personalized recommendations.
