@@ -99,5 +99,5 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     return true; // Keep the message channel open
   }
 
-  return false; // If no matching request type, return false
+  return false; // If no matching request, return false
 });
