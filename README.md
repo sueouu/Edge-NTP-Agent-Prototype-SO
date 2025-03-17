@@ -59,9 +59,8 @@ The extension detects activity from the following websites:
 
 ## Limitations
 - The extension currently retrieves **up to the last 50 history entries**.
-- It does **not specify a time range**, so it pulls the most recent history available.
 - If **browsing history is cleared**, the extension will not be able to access past searches.
-- **Incognito/Private Mode**: The extension **cannot** access browsing history from private sessions.
+- **InPrivate Mode**: The extension **cannot** access browsing history from private sessions.
 
 ## Troubleshooting
 - If the extension does not appear in new tabs:
